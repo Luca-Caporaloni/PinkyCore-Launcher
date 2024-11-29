@@ -2,6 +2,8 @@
 
 <h1 align="center">PinkyCore Launcher</h1>
 
+![Screenshot 1](https://imgur.com/a/N2Ss4mJ)
+
 <p align="center">Join modded servers without worrying about installing Java, Forge, or other mods. We'll handle that for you.</p>
 
 ---
